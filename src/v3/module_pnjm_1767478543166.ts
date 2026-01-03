@@ -1,0 +1,1 @@
+const util_pnjm = (d: any) => d;

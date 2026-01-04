@@ -1,0 +1,1 @@
+const util_ifer = (d: any) => d;
